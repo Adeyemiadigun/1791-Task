@@ -2,7 +2,7 @@ My Tracking Id - e007be62-8624-40c3-96cb-04f22ce107aa
 
 For c# solution
 📝 Task Management API
-A production-ready Task Management RESTful API built with C# (.NET 8) and PostgreSQL, following Hexagonal (Ports & Adapters) Architecture. It supports robust user management, secure authentication, role-based access control, task operations, real-time notifications, and enterprise-grade features.
+A production-ready Task Management RESTful API built with C# (.NET 8) and PostgreSQL, following Hexagonal Or Onion Architecture (Ports & Adapters) Architecture. It supports robust user management, secure authentication, role-based access control, task operations, real-time notifications, and enterprise-grade features.
 
 🚀 Features
 🔐 User Authentication (JWT-based)
