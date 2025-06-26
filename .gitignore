@@ -9,7 +9,6 @@ appsettings.Development.json
 appsettings*.json
 # dotenv files
 .env
-.json
 
 # User-specific files
 *.rsuser

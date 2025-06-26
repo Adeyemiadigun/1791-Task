@@ -48,7 +48,7 @@ Edit
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/donation-api.git
+git clone https://github.com/Adeyemiadigun/1791-Task/tree/main/Nodejs%20Best%20Api%20Practices%20Solution
 cd donation-api
 npm install
 ▶️ Running the Server
