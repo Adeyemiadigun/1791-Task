@@ -139,7 +139,7 @@ Edit
 ## 📦 Installation
 
 ```bash
-github.com/Adeyemiadigun/1791-Task/tree/main/Nodejs%20Best%20Api%20Practices%20Solution
+git clone github.com/Adeyemiadigun/1791-Task/tree/main/Nodejs%20Best%20Api%20Practices%20Solution
 cd donation-api
 npm install
 ▶️ Running the Server
